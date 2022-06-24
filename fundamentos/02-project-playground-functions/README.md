@@ -1,6 +1,7 @@
 # Projeto Playground Functions
 
 - Abril de 2022
+  ##### Os desafios desenvolvidos encontram-se na pasta `src`
 
 ### Projeto desenvolvido no Bloco 4 - Indtrodução à JavaScript e Lógica de Programação, no módulo de Fundamentos do Desenvolvimento Web
 
