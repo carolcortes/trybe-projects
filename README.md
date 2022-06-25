@@ -5,7 +5,7 @@
 ``Início do Curso: Mar/2022.
 Previsão de conclusão: Mar/2023.``
 
-O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
+O programa conta com mais de 1.500 horas de aulas, abordando introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
 `Em todos os projetos desenvolvidos foram cumpridos 100% dos requisitos obrigatórios e bônus.`
 
@@ -22,24 +22,24 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] [Lista de tarefas](https://github.com/carolcortes/trybe-projects/tree/main/fundamentos/04-project-todo-list): Desenvolvimento de um site que permite a criação de uma lista de tarefas.
 
 - [X] [Meme Generator](https://github.com/carolcortes/trybe-projects/tree/main/fundamentos/05-project-meme-generator): Criação de um site que permite o upload de uma imagem e inserção de um texto sobre ela, estilizando de forma apropriada.
-- [X] Adivinhe a Cor
-- [X] Carta Misteriosa
+- [X] [Adivinhe a Cor](https://github.com/carolcortes/trybe-projects/tree/main/fundamentos/06-project-color-guess): Desenvolvimento de uma aplicação onde é possível jogar um jogo de adivinhação de cores.
+- [X] [Carta Misteriosa](https://github.com/carolcortes/trybe-projects/tree/main/fundamentos/07-project-mistery-letter): Criação de um gerador de cartas misteriosas, onde as palavras possuem estilização própria.
 
 #### Bloco 6: HTML & CSS avançado
-- [X] Trybewarts
+- [X] [Trybewarts](https://github.com/carolcortes/trybe-projects/tree/main/fundamentos/08-project-trybewarts): Desenvolvimento de uma página de formulário da Escola de Magia Trybewarts.
 
 #### Bloco 7: JavaScript ES6 & Testes Unitários
-- [X] JavaScript Testes Unitários
+- [X] [JavaScript Testes Unitários](https://github.com/carolcortes/trybe-projects/tree/main/fundamentos/09-project-js-unit-tests): Implementação de funções na resolução dos requisitos propostos e/ou testes unitários.
 
 #### Bloco 8: JavaScript ES6
-- [X] Zoo functions
+- [X] [Zoo functions](https://github.com/carolcortes/trybe-projects/tree/main/fundamentos/10-project-zoo-functions): Desenvolvimento de funções que organizam e buscam informações sobre os animais do zoológico.
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 #### Bloco 9: JavaScript e Testes Assíncronos
-- [X] Carrinho de Compras
+- [X] [Carrinho de Compras](https://github.com/carolcortes/trybe-projects/tree/main/front-end/11-project-shopping-cart): Desenvolvimento de um carrinho de compras totalmente dinâmico, consumindo dados diretamente de uma API.
 
 #### Bloco 10: Introdução à React
-- [X] Sistema Solar
+- [X] [Sistema Solar](https://github.com/carolcortes/trybe-projects/tree/main/front-end/12-project-solar-system): Desenvolvimento de uma aplicação com React que simula uma visualização do Sistema Solar.
 
 #### Bloco 11: Componentes com Estados, Eventos e Formulários com React
 - [ ] Tryunfo
