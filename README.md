@@ -11,17 +11,17 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ## Fundamentos do Desenvolvimento Web :white_check_mark:
 #### Bloco 3: Introdução - HTML & CSS
-- [X] [Lições Aprendidas](https://github.com/carolcortes/trybe-projects/tree/main/fundamentos/01-project-lessons-learned): `Desenvolvimento de um site que contenha uma série de informações sobre o que foi aprendido na Trybe ao longo dos últimos três blocos.`
+- [X] [Lições Aprendidas](https://github.com/carolcortes/trybe-projects/tree/main/fundamentos/01-project-lessons-learned): Desenvolvimento de um site que contenha uma série de informações sobre o que foi aprendido na Trybe ao longo dos últimos três blocos.
 
 #### Bloco 4: Introdução - JavaScript
-- [X] [Playground Functions](https://github.com/carolcortes/trybe-projects/tree/main/fundamentos/02-project-playground-functions): `Implementação de funções seguindo os requisitos especificados.`
+- [X] [Playground Functions](https://github.com/carolcortes/trybe-projects/tree/main/fundamentos/02-project-playground-functions): Implementação de funções seguindo os requisitos especificados.
 
 #### Bloco 5: Introdução - JavaScript - Projetos
-- [X] [Arte com Pixels](https://github.com/carolcortes/trybe-projects/tree/main/fundamentos/03-project-pixels-art): `Implementação de uma página web que contém uma paleta de cores funcional que poderá ser utilizada para criar desenhos em pixels.`
+- [X] [Arte com Pixels](https://github.com/carolcortes/trybe-projects/tree/main/fundamentos/03-project-pixels-art): Implementação de uma página web que contém uma paleta de cores funcional que poderá ser utilizada para criar desenhos em pixels.
 
-- [X] [Lista de tarefas](https://github.com/carolcortes/trybe-projects/tree/main/fundamentos/04-project-todo-list): `Desenvolvimento de um site que permite a criação de uma lista de tarefas.`
+- [X] [Lista de tarefas](https://github.com/carolcortes/trybe-projects/tree/main/fundamentos/04-project-todo-list): Desenvolvimento de um site que permite a criação de uma lista de tarefas.
 
-- [X] [Meme Generator](https://github.com/carolcortes/trybe-projects/tree/main/fundamentos/05-project-meme-generator): `Criação de um site que permite o upload de uma imagem e inserção de um texto sobre ela, estilizando de forma apropriada.`
+- [X] [Meme Generator](https://github.com/carolcortes/trybe-projects/tree/main/fundamentos/05-project-meme-generator): Criação de um site que permite o upload de uma imagem e inserção de um texto sobre ela, estilizando de forma apropriada.
 - [X] Adivinhe a Cor
 - [X] Carta Misteriosa
 
