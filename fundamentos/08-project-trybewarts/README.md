@@ -4,6 +4,13 @@
 
 ### Projeto desenvolvido no Bloco 6 - HTML e CSS: Forms, Flexbox e Responsivo,  no módulo de Fundamentos do Desenvolvimento Web
 
+#### Conteúdos abordados:
+  - HTML & CSS - Forms;
+  - Bibliotecas JavaScript e Frameworks CSS;
+  - Introdução - CSS Flexbox;
+  - CSS Flexbox;
+  - CSS Responsivo - Mobile First.
+
 # Habilidades
 * Criar formulários em HTML;
 * Utilizar CSS Flexbox para criar layouts flexíveis;
